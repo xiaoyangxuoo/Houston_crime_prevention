@@ -5,6 +5,8 @@ End to end crime prevention project for HPD use
 Houston is the most populous city in the U.S. state of Texas, fourth-most populous city in the United States, most populous city in the Southern United States, as well as the sixth-most populous in North America, with an estimated population of 2,320,268 in 2019. Located in Southeast Texas near Galveston Bay and the Gulf of Mexico, it is the seat of Harris County and the principal city of the Greater Houston metropolitan area, which is the fifth-most populous metropolitan statistical area in the United States. Houston is the southeast anchor of the greater megaregion known as the Texas Triangle
 However, the famous city is suffering from crime and gangs’ problems. Across the Houston city, crime incidents were up 13% in 2020, with 256,833 crimes reported to Houston Police Department in 2020 compared to about 227,000 crimes reported in 2019
 
+A detailed visualized crime density map in the year of 2019 is shown below
+![图片3](https://user-images.githubusercontent.com/64232108/126050551-dec83680-e4ed-4af8-86b8-7182d73ca8fc.png)
 
 In this project, we are trying to use both supervised and unsupervised machine learning algorithms, to get some insights on following questions, and hopefully provide the Houston Police Department some prescriptive measures to lower the crime statistics in the future:
 1. Where in Houston is relatively facing more crime? What is the trend? (Geographic)
